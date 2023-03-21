@@ -1,4 +1,8 @@
 # CarlosIvan_MoralesPerea_Entregable1
 Nuevo Repositorio entregable
 
-Curso de Git wiseline
+
+Rama Entregable1
+
+Curso de Git wizeline
+
